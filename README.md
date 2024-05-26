@@ -1,5 +1,5 @@
 # Survey-of-Continual-Learning
-This is an updating survey for Continual Learning of Large Language Models (CL-LLMs), an constantly updated and extended version for the manuscript
+This is an updating survey for Foundation Language Models-based Continual Learning, an constantly updated and extended version for the manuscript: 
 <p align="center">
 <img src="images/taxonomy.jpg" alt="" data-canonical-src="images/taxonomy.jpg" width="100%"/>
 </p>
