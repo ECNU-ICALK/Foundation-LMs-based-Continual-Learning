@@ -17,13 +17,20 @@ This is an updating survey for Foundation Language Models-based Continual Learni
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Offline-Continual-Learning">Offline Continual Learning</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Domain-Incremental-Learning">Domain-Incremental Learning</a></li>
+        <li><a href="#Task-Incremental-Learning">Task-Incremental Learning</a></li>
+        <li><a href="#Class-Incremental-Learning">Class-Incremental Learning</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li>
+      <a href="#Online-Continual-Learning">Online Continual Learning</a>
+      <ul>
+        <li><a href="#Hard-Task-Boundary">Hard Task Boundary</a></li>
+        <li><a href="#Blurry-Task-Boundary">Blurry Task Boundary</a></li>
+      </ul>
+    </li>
     <li><a href="#DATASET">DATASET</a></li>
   </ol>
 </details>
