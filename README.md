@@ -110,12 +110,57 @@ This is an updating survey for Continual Learning of Large Language Models (CL-L
 - CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model [[paper](https://arxiv.org/abs/2403.08350#:~:text=CoIN%3A%20A%20Benchmark%20of%20Continual%20Instruction%20tuNing%20for%20Multimodel%20Large%20Language%20Model,-Cheng%20Chen%2C%20Junchen&text=Instruction%20tuning%20represents%20a%20prevalent,and%20adapt%20to%20new%20tasks.)]
 ##### Parameter-Efficient Methods
 - Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters [[paper](https://arxiv.org/abs/2403.11549)]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
+### Class-Incremental Learning
+#### PLMs-based CIL
+##### Traditional Methods
+- Continual Learning for Named Entity Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17600)]
+- Continual Learning for Sentence Representations Using Conceptors [[paper](https://aclanthology.org/N19-1331/)]
+- Continual Learning for Text Classification with Information Disentanglement Based Regularization [[paper](https://aclanthology.org/2021.naacl-main.218/)]
+##### Instruction Tuning-based Methods
+- Prompt Augmented Generative Replay via Supervised Contrastive Learning for Lifelong Intent Detection [[paper](https://aclanthology.org/2022.findings-naacl.84/)]
+##### Parameter-Efficient Tuning Methods
+- Continual Few-shot Intent Detection [[paper](https://aclanthology.org/2022.coling-1.26/)]
+- Rehearsal-free Continual Language Learning via Efficient Parameter Isolation [[paper](https://aclanthology.org/2023.acl-long.612.pdf)]
+- Domain-Agnostic Neural Architecture for Class Incremental Continual Learning in Document Processing Platform [[paper](https://aclanthology.org/2023.acl-industry.51/)]
+#### LLMs-based CIL
+- Generative Multi-modal Models are Good Class-Incremental Learners [[paper](https://arxiv.org/abs/2403.18383)]
+#### VLMs-based CIL
+##### Traditional Methods
+- VLM-PL: Advanced Pseudo Labeling Approach for Class Incremental Object Detection via Vision-Language Model [[paper](https://arxiv.org/abs/2403.05346)]
+- Learning without Forgetting for Vision-Language Models [[paper](https://arxiv.org/abs/2305.19270)]
+- CLAP4CLIP: Continual Learning with Probabilistic Finetuning for Vision-Language Models [[paper](https://arxiv.org/abs/2403.19137)]
+##### Parameter-Efficient Tuning Methods
+- Class Incremental Learning with Pre-trained Vision-Language Models [[paper](https://arxiv.org/abs/2310.20348)]
+##### Instruction Tuning-based Methods
+- Introducing Language Guidance in Prompt-based Continual Learning [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Khan_Introducing_Language_Guidance_in_Prompt-based_Continual_Learning_ICCV_2023_paper.html)]
+## ONLINE CONTINUAL LEARNING
+### Hard Task Boundary
+#### PLMs-based HTB
+- A Progressive Model to Enable Continual Learning for Semantic Slot Filling [[paper](https://aclanthology.org/D19-1126/)]
+- Online Continual Learning in Keyword Spotting for Low-Resource Devices via Pooling High-Order Temporal Statistics [[paper](https://arxiv.org/abs/2307.12660)]
+- Rehearsal-Free Online Continual Learning for Automatic Speech Recognition [[paper](https://arxiv.org/abs/2306.10860)]
+##### Traditional Methods
+- Episodic Memory in Lifelong Language Learning [[paper](https://proceedings.neurips.cc/paper/2019/hash/f8d2e80c1458ea2501f98a2cafadb397-Abstract.html)]
+- Efficient Meta Lifelong-Learning with Limited Memory [[paper](https://aclanthology.org/2020.emnlp-main.39/)]
+- Meta-Learning with Sparse Experience Replay for Lifelong Language Learning [[paper](https://arxiv.org/abs/2009.04891)]
+- Rehearsal-Free Online Continual Learning for Automatic Speech Recognition [[paper](https://arxiv.org/abs/2306.10860)]
+- Lifelong Intent Detection via Multi-Strategy Rebalancing [[paper](https://arxiv.org/abs/2108.04445)]
+### Blurry Task Boundary
+#### PLMs-based BTB
+- Episodic Memory in Lifelong Language Learning [[paper](https://proceedings.neurips.cc/paper/2019/hash/f8d2e80c1458ea2501f98a2cafadb397-Abstract.html)]
+- Efficient Meta Lifelong-Learning with Limited Memory [[paper](https://aclanthology.org/2020.emnlp-main.39/)]
+- Continual Learning for Task-oriented Dialogue System with Iterative Network Pruning, Expanding and Masking [[paper](https://aclanthology.org/2021.acl-short.66/)]
+- Meta-Learning Representations for Continual Learning [[paper](https://papers.nips.cc/paper_files/paper/2019/hash/f4dd765c12f2ef67f98f3558c282a9cd-Abstract.html)]
+- Meta-Learning with Sparse Experience Replay for Lifelong Language Learning [[paper](https://arxiv.org/abs/2009.04891)]
+#### VLMs-based BTB
+##### Traditional Methods
+- Continual Vision-Language Retrieval via Dynamic Knowledge Rectification [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29054)]
+##### Parameter-Efficient Tuning Methods
+- CBA: Improving Online Continual Learning via Continual Bias Adaptor [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_CBA_Improving_Online_Continual_Learning_via_Continual_Bias_Adaptor_ICCV_2023_paper.html)]
+##### Instruction Tuning-based Methods
+- Online Class Incremental Learning on Stochastic Blurry Task Boundary via Mask and Visual Prompt Tuning [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Moon_Online_Class_Incremental_Learning_on_Stochastic_Blurry_Task_Boundary_via_ICCV_2023_paper.html)]
+## DATASET
+
+
 
 
