@@ -4,6 +4,32 @@ This is an updating survey for Foundation Language Models-based Continual Learni
 <img src="images/taxonomy.jpg" alt="" data-canonical-src="images/taxonomy.jpg" width="100%"/>
 </p>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#Continual Learning">About The Project</a>
+      <ul>
+        <li><a href="#Continual Learning">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#Continual Learning">Getting Started</a>
+      <ul>
+        <li><a href="#Continual Learning">Prerequisites</a></li>
+        <li><a href="#Continual Learning">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#Continual Learning">Usage</a></li>
+    <li><a href="#Continual Learning">Roadmap</a></li>
+    <li><a href="#Continual Learning">Contributing</a></li>
+    <li><a href="#Continual Learning">License</a></li>
+    <li><a href="#Continual Learning">Contact</a></li>
+    <li><a href="#Continual Learning">Acknowledgments</a></li>
+  </ol>
+</details>
+
 ## Relevant Survey Papers
 ### Continual Learning
 - Continual lifelong learning with neural networks: A review [[paper](https://www.sciencedirect.com/science/article/pii/S0893608019300231)]
