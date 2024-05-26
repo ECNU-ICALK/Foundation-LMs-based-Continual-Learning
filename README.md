@@ -6,11 +6,11 @@ This is an updating survey for Foundation Language Models-based Continual Learni
 
 ## 目录
 
-- [Related Surveys](#RelatedSurveys)
-  - [Continual Learning](#Continual Learning)
-  - [Continual Learning for Computer Vision](#Continual Learning for Computer Vision)
-  - [Continual Learning for NLP](#Continual Learning for NLP)
-  - [Continual Learning for Other Domains](#Continual Learning for Other Domains)
+- [Related Surveys](#Related-Surveys)
+  - [Continual Learning](#Continual-Learning)
+  - [Continual Learning for Computer Vision](#Continual-Learning-for-Computer-Vision)
+  - [Continual Learning for NLP](#Continual Learning for-NLP)
+  - [Continual Learning for Other Domains](#Continual Learning for Other-Domains)
 - [Offline Continual Learning](#Offline Continual Learning)
   - [Domain-Incremental Learning](#Domain-Incremental Learning)
     - [PLMs-based DIL](#PLMs-based DIL)
