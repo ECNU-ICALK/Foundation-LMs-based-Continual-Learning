@@ -3,7 +3,7 @@ This is an updating survey for Foundation Language Models-based Continual Learni
 <p align="center">
 <img src="images/taxonomy.jpg" alt="" data-canonical-src="images/taxonomy.jpg" width="100%"/>
 </p>
-
+<!-- 
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -33,7 +33,7 @@ This is an updating survey for Foundation Language Models-based Continual Learni
     </li>
     <li><a href="#DATASET">DATASET</a></li>
   </ol>
-</details>
+</details> -->
 
 ## 目录
 
