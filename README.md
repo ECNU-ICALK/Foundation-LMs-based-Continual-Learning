@@ -62,7 +62,6 @@ This is an updating survey for Foundation Language Models-based Continual Learni
     - [VLMs-based TIL](#VLMs-based-TIL)
   - [Class-Incremental Learning](#Class-Incremental-Learning)
     - [PLMs-based CIL](#PLMs-based-CIL)
-    - [LLMs-based CIL](#LLMs-based-CIL)
     - [VLMs-based CIL](#VLMs-based-CIL)
 - [Online Continual Learning](#Online-Continual-Learning)
   - [Hard Task Boundary](#Hard-Task-Boundary)
@@ -194,13 +193,12 @@ This is an updating survey for Foundation Language Models-based Continual Learni
 - Continual Few-shot Intent Detection [[paper](https://aclanthology.org/2022.coling-1.26/)]
 - Rehearsal-free Continual Language Learning via Efficient Parameter Isolation [[paper](https://aclanthology.org/2023.acl-long.612.pdf)]
 - Domain-Agnostic Neural Architecture for Class Incremental Continual Learning in Document Processing Platform [[paper](https://aclanthology.org/2023.acl-industry.51/)]
-#### LLMs-based CIL
-- Generative Multi-modal Models are Good Class-Incremental Learners [[paper](https://arxiv.org/abs/2403.18383)]
 #### VLMs-based CIL
 ##### Traditional Methods
 - VLM-PL: Advanced Pseudo Labeling Approach for Class Incremental Object Detection via Vision-Language Model [[paper](https://arxiv.org/abs/2403.05346)]
 - Learning without Forgetting for Vision-Language Models [[paper](https://arxiv.org/abs/2305.19270)]
 - CLAP4CLIP: Continual Learning with Probabilistic Finetuning for Vision-Language Models [[paper](https://arxiv.org/abs/2403.19137)]
+- Generative Multi-modal Models are Good Class-Incremental Learners [[paper](https://arxiv.org/abs/2403.18383)]
 ##### Parameter-Efficient Tuning Methods
 - Class Incremental Learning with Pre-trained Vision-Language Models [[paper](https://arxiv.org/abs/2310.20348)]
 ##### Instruction Tuning-based Methods
