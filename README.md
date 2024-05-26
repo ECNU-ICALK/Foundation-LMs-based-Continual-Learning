@@ -35,7 +35,7 @@ This is an updating survey for Foundation Language Models-based Continual Learni
   </ol>
 </details> -->
 
-## 目录
+## Content
 
 - [Related Surveys](#Related-Surveys)
   - [Continual Learning](#Continual-Learning)
