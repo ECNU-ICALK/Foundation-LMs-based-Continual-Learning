@@ -1,8 +1,17 @@
 # Survey of Foundation LMs-based Continual-Learning
+In the domain of continual learning, there has been a significant paradigm shift from traditional methodologies to those that integrate foundation LMs. First, foundation LMs demonstrate enhanced generalization and transfer learning abilities across diverse tasks owing to their broad pre-training on large-scale datasets. The model has specialized transfer capability to quickly adapt to downstream tasks with only a few samples. Consequently, it is crucial to mitigate the degradation of both the zero-shot transfer and history task abilities in LMs while facilitating the acquisition of new skills. Second, due to the substantial number of parameters in foundation LMs, it is crucial to employ parameter-efficient techniques, such as prompt tuning and adapters, to update parameters without comprehensive retraining. Third, the foundation LMs possess the capability to follow instructions through instructional learning, enabling more dynamic and context-aware interactions.
+
+<p align="center">
+<img src="images/IntroCLDifference.jpg" alt="" data-canonical-src="images/IntroCLDifference.jpg" width="100%"/>
+</p>
+
 This is an updating survey for Foundation Language Models-based Continual Learning, a constantly updated and extended version of the manuscript: 
 <p align="center">
 <img src="images/taxonomy.jpg" alt="" data-canonical-src="images/taxonomy.jpg" width="100%"/>
 </p>
+
+
+
 <!-- 
 <details>
   <summary>Table of Contents</summary>
