@@ -62,6 +62,7 @@ This is an updating survey for Foundation Language Models-based Continual Learni
     - [PLMs-based BTB](#PLMs-based-BTB)
     - [VLMs-based BTB](#VLMs-based-BTB)
 - [DATASET](#DATASET)
+- [Reference](#Reference)
 
 ## Related Surveys
 ### Continual Learning
@@ -226,5 +227,10 @@ This is an updating survey for Foundation Language Models-based Continual Learni
 <img src="images/dataset.jpg" alt="" data-canonical-src="images/dataset.jpg" width="100%"/>
 </p>
 
+## Reference
+If you find our survey or this collection of papers useful, please consider citing our work by
+```bib
+
+```
 
 
