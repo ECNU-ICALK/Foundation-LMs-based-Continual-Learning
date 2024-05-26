@@ -1,5 +1,8 @@
 # Survey-of-Continual-Learning
 This is an updating survey for Continual Learning of Large Language Models (CL-LLMs), an constantly updated and extended version for the manuscript
+<p align="center">
+<img src="images/taxonomy.jpg" alt="" data-canonical-src="images/taxonomy.jpg" width="100%"/>
+</p>
 
 ## Relevant Survey Papers
 ### Continual Learning
@@ -160,7 +163,9 @@ This is an updating survey for Continual Learning of Large Language Models (CL-L
 ##### Instruction Tuning-based Methods
 - Online Class Incremental Learning on Stochastic Blurry Task Boundary via Mask and Visual Prompt Tuning [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Moon_Online_Class_Incremental_Learning_on_Stochastic_Blurry_Task_Boundary_via_ICCV_2023_paper.html)]
 ## DATASET
-
+<p align="center">
+<img src="images/dataset.jpg" alt="" data-canonical-src="images/dataset.jpg" width="100%"/>
+</p>
 
 
 
