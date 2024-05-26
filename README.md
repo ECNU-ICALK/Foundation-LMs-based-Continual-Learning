@@ -4,6 +4,30 @@ This is an updating survey for Foundation Language Models-based Continual Learni
 <img src="images/taxonomy.jpg" alt="" data-canonical-src="images/taxonomy.jpg" width="100%"/>
 </p>
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#Related-Surveys">Related Surveys</a>
+      <ul>
+        <li><a href="#Continual-Learning">Continual Learning</a></li>
+        <li><a href="#Continual-Learning-for-Computer-Vision">Continual Learning for Computer Vision</a></li>
+        <li><a href="#Continual-Learning-for-NLP">Continual Learning for NLP</a></li>
+        <li><a href="#Continual-Learning-for-Other-Domains">Continual Learning for Other Domains</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#DATASET">DATASET</a></li>
+  </ol>
+</details>
+
 ## 目录
 
 - [Related Surveys](#Related-Surveys)
