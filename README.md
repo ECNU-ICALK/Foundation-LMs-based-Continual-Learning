@@ -4,34 +4,20 @@ This is an updating survey for Foundation Language Models-based Continual Learni
 <img src="images/taxonomy.jpg" alt="" data-canonical-src="images/taxonomy.jpg" width="100%"/>
 </p>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="## Relevant Survey Papers">Relevant Survey Papers</a>
-      <ul>
-        <li><a href="### Continual Learning">Continual Learning</a></li>
-        <li><a href="### Continual Learning for Computer Vision">Continual Learning for Computer Vision</a></li>       
-        <li><a href="### Continual Learning for NLP">Continual Learning for NLP</a></li>
-        <li><a href="### Continual Learning for Other Domains">Continual Learning for Other Domains</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#Continual Learning">Getting Started</a>
-      <ul>
-        <li><a href="#Continual Learning">Prerequisites</a></li>
-        <li><a href="#Continual Learning">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#Continual Learning">Usage</a></li>
-    <li><a href="#Continual Learning">Roadmap</a></li>
-    <li><a href="#Continual Learning">Contributing</a></li>
-    <li><a href="#Continual Learning">License</a></li>
-    <li><a href="#Continual Learning">Contact</a></li>
-    <li><a href="#Continual Learning">Acknowledgments</a></li>
-  </ol>
-</details>
+## 目录
+
+- [上手指南](#上手指南)
+  - [开发前的配置要求](#开发前的配置要求)
+  - [安装步骤](#安装步骤)
+- [文件目录说明](#文件目录说明)
+- [开发的架构](#开发的架构)
+- [部署](#部署)
+- [使用到的框架](#使用到的框架)
+- [贡献者](#贡献者)
+  - [如何参与开源项目](#如何参与开源项目)
+- [版本控制](#版本控制)
+- [作者](#作者)
+- [DATASET](#DATASET)
 
 ## Relevant Survey Papers
 ### Continual Learning
