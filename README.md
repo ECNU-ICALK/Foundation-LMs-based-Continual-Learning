@@ -9,12 +9,12 @@ This is an updating survey for Foundation Language Models-based Continual Learni
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="##Relevant Survey Papers">Relevant Survey Papers</a>
+      <a href="## Relevant Survey Papers">Relevant Survey Papers</a>
       <ul>
-        <li><a href="###Continual Learning">Continual Learning</a></li>
-        <li><a href="###Continual Learning for Computer Vision">Continual Learning for Computer Vision</a></li>       
-        <li><a href="###Continual Learning for NLP">Continual Learning for NLP</a></li>
-        <li><a href="###Continual Learning for Other Domains">Continual Learning for Other Domains</a></li>
+        <li><a href="### Continual Learning">Continual Learning</a></li>
+        <li><a href="### Continual Learning for Computer Vision">Continual Learning for Computer Vision</a></li>       
+        <li><a href="### Continual Learning for NLP">Continual Learning for NLP</a></li>
+        <li><a href="### Continual Learning for Other Domains">Continual Learning for Other Domains</a></li>
       </ul>
     </li>
     <li>
