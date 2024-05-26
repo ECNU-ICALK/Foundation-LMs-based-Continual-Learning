@@ -6,7 +6,7 @@ This is an updating survey for Foundation Language Models-based Continual Learni
 
 ## 目录
 
-- [Related Surveys](#Related Surveys)
+- [Related Surveys](#RelatedSurveys)
   - [Continual Learning](#Continual Learning)
   - [Continual Learning for Computer Vision](#Continual Learning for Computer Vision)
   - [Continual Learning for NLP](#Continual Learning for NLP)
