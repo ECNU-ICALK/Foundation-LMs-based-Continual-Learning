@@ -6,10 +6,18 @@ This is an updating survey for Foundation Language Models-based Continual Learni
 
 ## 目录
 
-- [上手指南](#上手指南)
-  - [开发前的配置要求](#开发前的配置要求)
-  - [安装步骤](#安装步骤)
-- [文件目录说明](#文件目录说明)
+- [Related Surveys](#Related Surveys)
+  - [Continual Learning](#Continual Learning)
+  - [Continual Learning for Computer Vision](#Continual Learning for Computer Vision)
+  - [Continual Learning for NLP](#Continual Learning for NLP)
+  - [Continual Learning for Other Domains](#Continual Learning for Other Domains)
+- [Offline Continual Learning](#Offline Continual Learning)
+  - [Domain-Incremental Learning](#Domain-Incremental Learning)
+    - [PLMs-based DIL](#PLMs-based DIL)
+    - [如何参与开源项目](#如何参与开源项目)
+    - [如何参与开源项目](#如何参与开源项目)
+  - [如何参与开源项目](#如何参与开源项目)
+  - [如何参与开源项目](#如何参与开源项目)
 - [开发的架构](#开发的架构)
 - [部署](#部署)
 - [使用到的框架](#使用到的框架)
@@ -19,7 +27,7 @@ This is an updating survey for Foundation Language Models-based Continual Learni
 - [作者](#作者)
 - [DATASET](#DATASET)
 
-## Relevant Survey Papers
+## Related Surveys
 ### Continual Learning
 - Continual lifelong learning with neural networks: A review [[paper](https://www.sciencedirect.com/science/article/pii/S0893608019300231)]
 - A Comprehensive Survey of Continual Learning: Theory, Method and Application [[paper](https://ieeexplore.ieee.org/document/10444954?denied=)]
