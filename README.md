@@ -102,7 +102,6 @@ This is an updating [survey for Foundation Language Models-based Continual Learn
 - Decouple knowledge from parameters for plug-and-play language modeling [[paper](https://aclanthology.org/2023.findings-acl.901/)]
 ##### Continual Pre-training Methods
 - Continual Pre-training of Language Models [[paper](https://arxiv.org/abs/2302.03241)]
-- Continual Pre-Training Mitigates Forgetting in Language and Vision [[paper](https://arxiv.org/abs/2205.09357)]
 ##### Parameter-Efficient Tuning Methods
 - Parameter-Efficient Transfer Learning for NLP [[paper](https://arxiv.org/abs/1902.00751)]
 - Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning [[paper](https://aclanthology.org/2023.emnlp-demo.13.pdf)]
@@ -128,6 +127,7 @@ This is an updating [survey for Foundation Language Models-based Continual Learn
 - Efficient Continual Pre-training for Building Domain Specific Large Language Models [[paper](https://arxiv.org/abs/2311.08545)]
 - EcomGPT-CT: Continual Pre-training of E-commerce Large Language Models with Semi-structured Data [[paper](https://arxiv.org/abs/2312.15696)]
 - Adapting Large Language Models via Reading Comprehension [[paper](https://arxiv.org/abs/2309.09530)]
+- Continual Pre-Training Mitigates Forgetting in Language and Vision [[paper](https://arxiv.org/abs/2205.09357)]
 ##### Parameter-Efficient Tuning Methods
 - Lifelong language pretraining with distribution-specialized experts [[paper](https://dl.acm.org/doi/10.5555/3618408.3618621)]
 #### VLMs-based DIL
