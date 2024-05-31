@@ -5,7 +5,7 @@ In the domain of continual learning, there has been a significant paradigm shift
 <img src="images/IntroCLDifference.jpg" alt="" data-canonical-src="images/IntroCLDifference.jpg" width="80%"/>
 </p>
 
-This is an updating [survey for Foundation Language Models-based Continual Learning](https://github.com/ECNU-ICALK/Foundation-LMs-based-Continual-Learning/blob/main/LMs_based_Approaches_for_Continual_Learning__A_Survey.pdf), a constantly updated and extended version of the manuscript: "[Recent Advances of Foundation Language Models-based Continual Learning: A Survey](https://arxiv.org/abs/2405.18653)"
+This is an updating survey for Foundation Language Models-based Continual Learning, a constantly updated and extended version of the manuscript: "[Recent Advances of Foundation Language Models-based Continual Learning: A Survey](https://arxiv.org/abs/2405.18653)"
 <p align="center">
 <img src="images/taxonomy.jpg" alt="" data-canonical-src="images/taxonomy.jpg" width="100%"/>
 </p>
