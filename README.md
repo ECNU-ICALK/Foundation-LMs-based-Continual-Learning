@@ -237,7 +237,12 @@ This is an updating survey for Foundation Language Models-based Continual Learni
 ## Reference
 If you find our survey or this collection of papers useful, please consider citing our work by
 ```bib
-
+@article{yang2024recent,
+  title={Recent Advances of Foundation Language Models-based Continual Learning: A Survey},
+  author={Yang, Yutao and Zhou, Jie and Ding, Xuanwen and Huai, Tianyu and Liu, Shunyu and Chen, Qin and He, Liang and Xie, Yuan},
+  journal={arXiv preprint arXiv:2405.18653},
+  year={2024}
+}
 ```
 
 
